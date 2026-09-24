@@ -11,9 +11,9 @@ import {
 import { useEffect, useRef, useState } from "react";
 
 const SPAWN_DISTANCE = 100; // px travelled between two images
-const IMAGE_WIDTH = 280; // px
+const IMAGE_WIDTH = 200; // px
 const IMAGE_LIFETIME = 2000; // ms before the fade-out, paused while hovered
-const MAX_IMAGES = 12;
+const MAX_IMAGES = 24;
 
 type TrailPhoto = {
   id: string;

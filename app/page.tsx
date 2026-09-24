@@ -1,4 +1,4 @@
-import CursorTrail from "@/components/cursor-trail";
+import CursorTrail from "@/components/atoms/cursor-trail";
 import { getPhotoLibrary } from "@/lib/photos";
 
 export default function Home() {
