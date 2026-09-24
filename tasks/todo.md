@@ -79,3 +79,7 @@ Les champs `largeur`/`hauteur` restent, mais sont remplis avec la taille réelle
 - Ajouts après V1 : favicon `app/icon.svg` (icône Lucide Studio blanche sur carré noir, remplace `favicon.ico`),
   meta description « Explore Paris in 1970. ... », `lang="en"`, image gardée à l'écran tant que le curseur est dessus
   (testé dans Chrome : l'image survolée reste 6 s+, disparaît 2 s après être sortie).
+
+---
+# TODO
+le site est pas du tout adapté sur tel modifier cela
