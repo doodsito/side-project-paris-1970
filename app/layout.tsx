@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Paris",
+  title: "Paris, 1970.",
   description:
     "Explore Paris in 1970. Move your cursor to reveal a thousand photographs taken by amateurs for the City of Paris photography contest.",
 };
